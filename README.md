@@ -1,0 +1,1 @@
+This repository contains a Python program demonstrating a common error in recursive functions. The program calculates the factorial of a number using recursion.  The bug is the function doesn't handle negative input properly, leading to a RecursionError.  The solution file shows how to correctly handle the base case to avoid this error.
